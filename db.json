@@ -4,5 +4,11 @@
             "id": 1,
             "name":"ahmed"
         }
+    ],
+    "sliders": [
+        {
+            "id": 1,
+            "name":"image"
+        }
     ]
 }
