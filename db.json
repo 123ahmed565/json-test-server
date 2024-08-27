@@ -12,13 +12,13 @@
     "sliders": [
         {
             "id": 1,
-            "name":"Apple iPhone 15 128GB",
-            "image":"https://f.nooncdn.com/p/pnsku/N53433298A/45/_/1694…-4fdc-a155-65c36489b69d.jpg?format=avif&width=240",
-            "price":"38,892",
-            "old_price":"40,444",
-            "stock":"2",
+            "name":"Apple iPhone 13 128GB",
+            "image":"https://f.nooncdn.com/p/pnsku/N53432561A/45/_/1694762130/d781c274-56ba-4c4c-98a8-c46fc7a58fee.jpg?format=avif&width=240",
+            "price":"29,956",
+            "old_price":"34,999",
+            "stock":"",
             "rate":"4.6",
-            "percentage_sale":"20%"
+            "percentage_sale":"10%"
         },
         {
             "id": 2,
@@ -32,16 +32,6 @@
         },
         {
             "id": 3,
-            "name":"Apple iPhone 15 128GB",
-            "image":"https://f.nooncdn.com/p/pnsku/N53432547A/45/_/1694…-4ff3-8032-af4a5a3c553c.jpg?format=avif&width=240",
-            "price":"21,750",
-            "old_price":"25,555",
-            "stock":"2",
-            "rate":"4.4",
-            "percentage_sale":"14%"
-        },
-        {
-            "id": 4,
             "name":"Apple iPhone 13 128GB",
             "image":"https://f.nooncdn.com/p/pnsku/N53432561A/45/_/1694762130/d781c274-56ba-4c4c-98a8-c46fc7a58fee.jpg?format=avif&width=240",
             "price":"29,956",
@@ -49,6 +39,16 @@
             "stock":"",
             "rate":"4.6",
             "percentage_sale":"10%"
+        },
+        {
+            "id": 4,
+            "name":"Apple iPhone 15 128GB",
+            "image":"https://f.nooncdn.com/p/pnsku/N53432547A/45/_/1694…-4ff3-8032-af4a5a3c553c.jpg?format=avif&width=240",
+            "price":"21,750",
+            "old_price":"25,555",
+            "stock":"2",
+            "rate":"4.4",
+            "percentage_sale":"14%"
         }
     ]
 }
